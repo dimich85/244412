@@ -1,0 +1,15 @@
+{
+  "name": "macos-web-app",
+  "version": "1.0.0",
+  "description": "A macOS like web application with a custom browser.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
